@@ -135,6 +135,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDBWTNME
 
+[Document6]
+DocumentPath=Mosaic-Portenta.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1102,10 +1119,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name Only
+ComponentLibraryIdentifier0=Ghrt
+ComponentDesignItemID0=CMP-00057-6
+ComponentSymbolReference0=KSZ9563RNXI-TR
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1119,6 +1142,37 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Data Rate
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Ethernet Type
+ParameterUpdate4=1
+ParameterName5=Interfaces
+ParameterUpdate5=1
+ParameterName6=Library Reference
+ParameterUpdate6=1
+ParameterName7=Manufacturer
+ParameterUpdate7=1
+ParameterName8=Max Operating Temperature
+ParameterUpdate8=1
+ParameterName9=Min Operating Temperature
+ParameterUpdate9=1
+ParameterName10=Package
+ParameterUpdate10=1
+ParameterName11=Qualification
+ParameterUpdate11=1
+ParameterName12=Transceivers
+ParameterUpdate12=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=VQFN64_NX_MCH
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
