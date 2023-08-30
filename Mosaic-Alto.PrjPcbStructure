@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=MA-Ethernet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MA-Ethernet.SchDoc|FileName=MA-Mosaic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MA-Ethernet.SchDoc|FileName=MA-Portenta.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=MA-Ethernet.SchDoc|FileName=MA-Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=MA-Ethernet.SchDoc|FileName=MA-Support.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MA-Ethernet.SchDoc|FileName=MA-USBA.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=MA-Ethernet.SchDoc|FileName=MA-USBC.SchDoc|SheetNumber=7
