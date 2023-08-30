@@ -3,3 +3,5 @@
 </p>
 
 # MosaicAlto
+
+Arduino library to be developed
