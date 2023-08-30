@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" src="Assets/Septentrio.jpg">
+  <img width="100%" src="Assets/Banner-Alto.jpg">
 </p>
 
 # Mosaic-Portenta
