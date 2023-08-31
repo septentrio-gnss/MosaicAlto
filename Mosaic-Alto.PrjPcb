@@ -237,112 +237,197 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=Project Jobs\Pick-Place.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Mosaic-Portenta\Design Rule Check - Mosaic-Portenta.html
+DocumentPath=Project Outputs for Mosaic-Alto\BOM\Bill of Materials-Mosaic-Alto.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for Mosaic-Portenta\Design Rule Check - Mosaic-Portenta.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto.REP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Legend_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Legend_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Legend_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Legend_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_NPTH_Drill.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_NPTH_Drill.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Paste_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Paste_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Alto_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Paste_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Paste_Top.gbr
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Profile.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Profile.gbr
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_PTH_Drill.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_PTH_Drill.gbr
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Free Documents\GerberX2\Mosaic-Portenta_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
 DocumentPath=Project Outputs for Mosaic-Portenta\GerberX2\Mosaic-Portenta_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for Mosaic-Alto.csv
 DItemRevisionGUID=
 
 [Configuration1]
