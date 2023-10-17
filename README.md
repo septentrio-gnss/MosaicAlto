@@ -61,4 +61,5 @@ All the files needed are each in their own folder, such as the BOM (Bill Of Mate
 All the files are provided as is. These have not been fully validaded by the author or Septentrio.
 The use of any of these files are at your own risk and responsibility.
 
+---
 *Designed by A. Gheeraert*
