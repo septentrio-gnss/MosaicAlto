@@ -14,6 +14,27 @@ The board also has the option to be used as a standalone device by using the USB
   <img width="40%" src="Assets/mosaicAlto_Combined.png">
 </p>
 
+mosaicAlto, is a carrier board embedding the mosaic-X5 or mosaic-H GNSS receivers, which transforms Arduino Pro “Portenta” into a single-board computer with a GPS/GNSS receiver.
+While Arduino is well known by the DIY community, Arduino Pro is the professional version of this popular electronics platform, targeting industrial and other disruptive professional applications such as agriculture and construction.
+
+mosaicAlto carrier boards makes full compatibility to Arduino Pro in an easy way allowing flexibility to use multiple Portenta boards with the same carrier board thus enabling high accuracy for industrial applications.
+
+## What is Arduino Pro and Portenta boards?
+### Arduino Pro:
+Arduino Pro is the series of microcontroller boards designed for more advanced users and projects. They are typically smaller and less expensive than the standard Arduino boards, making them suitable for embedding in projects and applications where space and cost are critical factors. These boards usually use ATmega microcontrollers and have a minimalistic design with fewer built-in features compared to the standard Arduino boards.
+
+### Arduino Portenta:
+Arduino Portenta boards are the relatively newer line of boards designed for more professional and industrial IoT (Internet of Things) applications. These boards are more powerful and versatile compared to the standard Arduino boards. The Arduino Portenta series typically features microcontrollers with multicore processors and built-in connectivity options, making them suitable for various IoT and edge computing projects.
+
+Key features of Arduino Portenta boards may include:
+   * Dual-core processors (e.g., one core for high-level tasks and one for real-time tasks).
+   * Secure communication features for IoT applications.
+   * Enhanced connectivity options, including Wi-Fi and Bluetooth.
+   * Compatibility with a wide range of industrial-grade hardware and software interfaces.
+   * These boards are often used in applications that require more processing power, reliability, and security, such as industrial automation, remote monitoring, and edge computing applications.
+
+You can buy Arduino Portenta boards here: [**Arduino Portenta**](https://store-usa.arduino.cc/collections/portenta-family) 
+
 ## What is the Mosaic module?
 **[Mosaic modules](https://www.septentrio.com/en/products/gnss-receivers/rover-base-receivers/receivers-modules) are Septentrio's small-size and low-power GNSS receiver modules ideal for providing highly accurate positions.** Mosaic modules integrate the latest generation of GNSS technology, delivering highly accurate positions with minimal power consumption. While compact in size they fully retain the high-reliability and exceptional accuracy performance that Septentrio receivers are known for. True multi-frequency multi-constellation technology gives our module receivers access to every possible signal from all available GNSS satellite constellations including the U.S. GPS, European Galileo, Russian GLONASS, as well BeiDou, QZSS and NavIC. [Septentrio’s advanced field-proven algorithms](https://www.septentrio.com/en/company/septentrio-gnss-technology) exploit this signal diversity to deliver maximum positioning availability and reference network compatibility.
 
